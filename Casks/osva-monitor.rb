@@ -1,6 +1,6 @@
 cask "osva-monitor" do
-  version "0.3.0"
-  sha256 "ee2ab6312fcbba3f955e86bcf13863ba1513a92ba9208f3c03071b139f8666c4"
+  version "0.3.1"
+  sha256 "5c6518bc755cbba5a9d636212e8b367632ea1d7391b69c2e5996242bc66b00ae"
 
   url "https://github.com/verificationalliance/osva-monitor/releases/download/v#{version}/OSVA-Monitor-#{version}.zip"
   name "OSVA Monitor"
